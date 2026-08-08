@@ -1,6 +1,8 @@
 {
     "nrf-connect.applications": [
         "${workspaceFolder}/blinky",
-        "${workspaceFolder}/l3_e1"
+        "${workspaceFolder}/l3_e1",
+        "${workspaceFolder}/ncs-fund/l4/l4_e1",
+        "${workspaceFolder}/ncs-fund/l5/l5_e1"
     ]
 }
