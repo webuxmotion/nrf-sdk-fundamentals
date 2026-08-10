@@ -1,5 +1,5 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}/ncs-fund/l8/l8_e1"
+        "${workspaceFolder}/ncs-fund/l8/l8_e2"
     ]
 }
